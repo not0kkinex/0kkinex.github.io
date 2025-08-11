@@ -8,7 +8,7 @@ A fun-loving student who watches anime and develops games and web projects. I've
 
 - 🎮 Game and web development enthusiast  
 - 📚 Currently learning: JavaScript, C  
-- 🎬 Anime and manga lover
+- 🎬 Anime lover
 
 ---
 
