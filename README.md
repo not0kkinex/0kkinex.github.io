@@ -23,7 +23,7 @@ A fun-loving student who watches anime and develops games and web projects. I've
 ## My Projects
 
 - [Haxball Bot and Server](https://discord.gg/Ncab8hj8Zq) — We’re building a big community, so don’t wait, get your OG ticket now!  
-- p2p Code Wars (coming soon)
+- webOS project(In demo)
 
 ---
 
